@@ -1,7 +1,9 @@
 # The Project Overview
 
 This GitHub repository hosts a comprehensive e-commerce website featuring secure user authentication, detailed product management, a user-friendly shopping cart, and a streamlined checkout process with payment integration. Users can manage their profiles, view order histories, and leave product reviews, while admins have access to a powerful dashboard for overseeing products, orders, and customer interactions. The site boasts a responsive design for seamless use across all devices, advanced search and filter options for easy product discovery, and employs modern web technologies such as React for the frontend, Node.js and Express.js for the backend, and MongoDB for the database.
-Home
+<br>
+
+HOME PAGE
 <br>
 ![65086776-b1beb080-d9d0-11e9-9983-143d61ed8fdc](https://github.com/Creating-Content/E_Commerce_Project/assets/110709120/c0fae7ba-4c6f-420d-8828-67f7f992cb43)
 <br>
